@@ -21,5 +21,5 @@ Writing a writeup forces me to understand what I did — not just follow steps. 
 ## 👤 Author
 
 **Chamika Ranaweera**
-[TryHackMe Profile](https://tryhackme.com/p seasonsofyjinn)
+[TryHackMe Profile](https://tryhackme.com/p/seasonsofyjinn)
 [GitHub](https://github.com/chamika-r)
